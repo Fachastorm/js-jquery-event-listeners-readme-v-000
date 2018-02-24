@@ -1,5 +1,5 @@
 //define functions here
-function() {
+function getIt() {
 $('p').on("click") {
   alert("Hey!");
 }
